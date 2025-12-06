@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>كريم الغاسول المغربي - Maghrib Natur</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f8f4f9;
+      color: #3e2a4d;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 700px;
+      margin: 50px auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(128, 0, 128, 0.1);
+    }
+    h1 {
+      color: #6a1b9a;
+      text-align: center;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .section-title {
+      font-weight: bold;
+      color: #8e44ad;
+      margin-bottom: 10px;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #999;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>كريم الغاسول المغربي</h1>
+    <div class="section">
+      <p>تعرف على منتجنا الطبيعي "كريم الغاسول المغربي" المصنوع بعناية من مكونات مغربية أصيلة.</p>
+    </div>
+    <div class="section">
+      <div class="section-title">المكونات:</div>
+      <p>غاسول طبيعي، زيت الأرغان، ماء الورد، زيت اللافندر</p>
+    </div>
+    <div class="section">
+      <div class="section-title">فوائد المنتج:</div>
+      <p>تنقية البشرة، ترطيب عميق، مكافحة الحبوب، تفتيح طبيعي</p>
+    </div>
+    <div class="section">
+      <p>مثالي لجميع أنواع البشرة ويمنحك إحساسًا بالنقاء والانتعاش.</p>
+    </div>
+    <div class="footer">
+      &copy; 2025 Maghrib Natur - جميع الحقوق محفوظة
+    </div>
+  </div>
+</body>
+</html>
